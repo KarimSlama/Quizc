@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quizc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tip_one">This is the Quiz app that you have a question and fourth choices for it your mission is to give a right answer quickly.
+    </string>
+
+    <string name="tip_two">Select the answer from the options given. Each time you get an answer correct, you advance to the next question.</string>
+
+    <string name="tip_three">If you get the answer wrong, your Quiz ends! You can return to the try again by choice this from the current screen of Quiz screen, and this will restart your Quiz.</string>
+    <string name="tip_four">Be careful! This quiz has a time, so you should be careful not to waste time and not solve all the questions.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
