@@ -10,6 +10,7 @@ import android.widget.Toast
 import com.example.quizapp.MainActivity
 import com.example.quizapp.databinding.ActivityLoginBinding
 import com.example.quizapp.forgot_password.ForgotPasswordActivity
+import com.example.quizapp.profile.ProfileFragment
 import com.example.quizapp.signup.SignUpActivity
 import com.google.firebase.auth.FirebaseAuth
 
@@ -71,6 +72,7 @@ class LoginActivity : AppCompatActivity() {
                 binding.progressBar.visibility = View.GONE
             }//end if()
         }//end lambda fun.
+
 
     }//end userLogin()
 

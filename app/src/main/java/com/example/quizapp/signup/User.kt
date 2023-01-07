@@ -1,3 +1,3 @@
 package com.example.quizapp.signup
 
-class User(val name: String, email: String, phone: String)
+class User(val name: String, val email: String, val phone: String)

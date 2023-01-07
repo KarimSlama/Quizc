@@ -10,4 +10,12 @@
     <string name="tip_four">Be careful! This quiz has a time, so you should be careful not to waste time and not solve all the questions.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="quiz_timer">Quiz Timer</string>
+    <string name="quiz_notification_channel_description">Quiz reminder</string>
+    <string name="quiz_notification_channel_name" translatable="true">Quizc</string>
+    <string name="quiz_ready">Are you ready? Have a blast!</string>
+    <string name="quiz_notification_channel_id" translatable="false">quiz_channel</string>
+
 </resources>
